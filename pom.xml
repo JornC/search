@@ -21,7 +21,7 @@
 
   <groupId>nl.aerius</groupId>
   <artifactId>search-parent</artifactId>
-  <version>1.2.1</version>
+  <version>1.2.2</version>
   <packaging>pom</packaging>
   <name>AERIUS Search</name>
   <url>https://www.aerius.nl</url>

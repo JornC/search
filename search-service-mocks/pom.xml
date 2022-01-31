@@ -27,7 +27,7 @@
   </parent>
   <groupId>nl.aerius</groupId>
   <artifactId>search-service-mocks</artifactId>
-  <version>1.2.1</version>
+  <version>1.2.2</version>
   <name>AERIUS Search :: Service Mocks</name>
 
   <properties>

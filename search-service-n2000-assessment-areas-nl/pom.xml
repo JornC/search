@@ -10,7 +10,7 @@
   </parent>
   <groupId>nl.aerius</groupId>
   <artifactId>search-service-n2000-assessment-areas-nl</artifactId>
-  <version>1.2.1</version>
+  <version>1.2.2</version>
   <name>AERIUS Search :: Service Natura 2000 areas NL</name>
 
   <properties>
