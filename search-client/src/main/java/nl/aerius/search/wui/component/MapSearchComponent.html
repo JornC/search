@@ -2,7 +2,7 @@
 <vue-gwt:import class="java.util.Collection" />
 <vue-gwt:import class="nl.aerius.search.wui.domain.SearchSuggestion" />
 
-<div class="searchContainer">
+<div class="searchInputContainer">
   <input v-model="search"
     type="text"
     ref="input"
@@ -83,7 +83,7 @@
   margin: 0px 10px;
 }
 
-.searchContainer {
+.searchInputContainer {
   display: flex;
 }
 
@@ -92,7 +92,7 @@
   padding: 4px 10px;
   width: 100%;
   z-index: 1;
-  height: var(--height);
+  height: var(--search-height);
 }
 
 .noResultsContainer {
@@ -110,7 +110,7 @@
 
 .resultsContainer, .noResultsContainer {
   background: white;
-  top: var(--height);
+  top: var(--search-height);
   width: 100%;
   max-width: 100vw;
 
